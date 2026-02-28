@@ -1,1 +1,1 @@
-template of the project
+[Templates]
